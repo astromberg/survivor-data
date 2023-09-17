@@ -1,0 +1,18 @@
+Name,0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19
+Sandra,—,—,—,Burton,Michelle,Trish,Shawn,—,—,—,Andrew,Ryan O.,Jon,Tijuana,Lillian,Burton,Darrah,None,,
+Lillian,Nicole,Osten,Darrah,,,,,,,,,,,,,,,,,
+Jon,—,—,—,Burton,Michelle,Rupert,Shawn,—,—,—,Andrew,Ryan O.,Rupert,Tijuana,Christa,Lillian,Darrah,None,,
+Darrah,Nicole,Ryan S.,Lillian,—,—,—,—,—,—,—,Jon,Ryan O.,Rupert,Burton,Christa,Burton,Lillian,,,
+Burton,—,—,—,Christa,,,,,,,,,,,,,,,,
+Christa,—,—,—,Burton,Michelle,Trish,Shawn,—,—,—,Andrew,Ryan O.,Darrah,Tijuana,Lillian,,,,,
+Tijuana,Nicole,Ryan S.,Lillian,—,—,—,—,—,—,—,Jon,Ryan O.,Rupert,Burton,,,,,,
+Rupert,—,—,—,,Michelle,Trish,Shawn,—,—,—,Andrew,Ryan O.,Darrah,,,,,,,
+Andrew,Nicole,Ryan S.,Lillian,—,—,—,—,—,—,—,Jon,,,,,,,,,
+Osten,Nicole,Ryan S.,Lillian,—,—,—,—,Quit,,,,,,,,,,,,
+Shawn,—,—,—,Burton,Michelle,Trish,Jon,,,,,,,,,,,,,
+Trish,—,—,—,Burton,Michelle,Rupert,,,,,,,,,,,,,,
+Michelle,—,—,—,Christa,Shawn,,,,,,,,,,,,,,,
+Nicole,Ryan S.,,,,,,,,,,,,,,,,,,,
+Ryan O.,Nicole,Ryan S.,Lillian,—,—,—,—,—,—,—,Jon,Christa,,,,,,,,
+Ryan S.,Nicole,Osten,,,,,,,,,,,,,,,,,,
+Result,Nicole,Ryan S.,Lillian,Burton,Michelle,Trish,Shawn,Osten,Burton,Lillian,Andrew,Ryan O.,Rupert,Tijuana,Christa,Burton,Darrah,Jon,Lillian,Sandra

@@ -1,0 +1,18 @@
+Name,0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16
+Aras,—,Melinda,—,—,Bruce,—,Nick,Austin,Sally,—,Courtney,Shane,Danielle,—,None,,
+Danielle,—,Melinda,—,—,Bobby,—,Nick,Austin,Sally,—,Courtney,Shane,Cirie,—,Terry,,
+Terry,—,—,Misty,Ruth Marie,—,Dan,Shane,Aras,Aras,—,Aras,Aras,Cirie,—,None,,
+Cirie,Tina,Shane,—,—,Bobby,—,Nick,Austin,Sally,—,Courtney,Shane,Danielle,,,,
+Shane,—,Melinda,—,—,Aras,—,Nick,Austin,Sally,—,Danielle,Danielle,,,,,
+Courtney,—,Melinda,—,—,Bobby,—,Nick,Austin,Sally,—,Aras,,,,,,
+Bruce,—,,—,—,Courtney,—,Nick,Austin,Sally,Evacuated,,,,,,,
+Sally,—,—,Ruth Marie,Ruth Marie,—,,Shane,Aras,Aras,,,,,,,,
+Austin,—,—,Misty,Ruth Marie,—,Dan,Shane,Aras,,,,,,,,,
+Nick,—,—,Misty,Ruth Marie,—,Dan,Shane,,,,,,,,,,
+Dan,—,—,Misty,Sally,—,Austin,,,,,,,,,,,
+Bobby,—,Melinda,—,—,Bruce,,,,,,,,,,,,
+Misty,—,—,Ruth Marie,,,,,,,,,,,,,,
+Melinda,Tina,Shane,,,,,,,,,,,,,,,
+Tina,Cirie,,,,,,,,,,,,,,,,
+Ruth Marie,Tina,—,Misty,Sally,,,,,,,,,,,,,
+Result,Tina,Melinda,Misty,Ruth Marie,Bobby,Dan,Nick,Austin,Sally,Bruce,Courtney,Shane,Tie,Cirie,Terry,Danielle,Aras

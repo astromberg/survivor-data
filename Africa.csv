@@ -1,0 +1,18 @@
+Name,0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19
+Ethan,Diane,Jessie,—,—,—,—,Silas,—,—,—,Clarence,Kelly,Brandon,Frank,Kim P.,Teresa,Tom,None,,
+Kim J.,Diane,Jessie,—,—,—,—,Silas,—,—,—,Clarence,Kelly,Brandon,Frank,Kim P.,Teresa,Tom,Lex,,
+Lex,Diane,Jessie,—,—,—,—,—,Lindsey,Lindsey,—,Clarence,Kelly,Frank,Frank,Kim P.,Teresa,Tom,None,,
+Tom,Clarence,Clarence,—,—,—,—,—,Lindsey,None,—,Clarence,Kelly,Brandon,Frank,Kim P.,Teresa,Lex,,,
+Teresa,—,—,Lindsey,Lindsey,—,Silas,Silas,—,—,—,Lex,Lex,Brandon,Frank,Lex,Tom,,,,
+Kim P.,—,—,Carl,Carl,—,Linda,—,Tom,Tom,—,Clarence,Lex,Brandon,Frank,Lex,,,,,
+Frank,—,—,Lindsey,Lindsey,—,Silas,Silas,—,—,—,Clarence,Lex,Brandon,Kim J.,,,,,,
+Brandon,—,—,Carl,Carl,—,Linda,—,Tom,Tom,—,Clarence,Kelly,Frank,,,,,,,
+Kelly,Diane,Jessie,—,—,—,—,—,Lindsey,Lindsey,—,Clarence,Lex,,,,,,,,
+Clarence,Diane,Jessie,—,—,—,—,Silas,—,—,—,Lex,,,,,,,,,
+Lindsey,—,—,Carl,None,—,Linda,—,Tom,None,,,,,,,,,,,
+Silas,—,—,Carl,Carl,—,Linda,Frank,,,,,,,,,,,,,
+Linda,—,—,Lindsey,Lindsey,—,Silas,,,,,,,,,,,,,,
+Carl,—,—,Lindsey,None,,,,,,,,,,,,,,,,
+Jessie,Diane,Clarence,,,,,,,,,,,,,,,,,,
+Diane,Clarence,,,,,,,,,,,,,,,,,,,
+Result,Diane,Jessie,Tie,Deadlock,Carl,Linda,Silas,Tie,Deadlock,Lindsey,Clarence,Kelly,Brandon,Frank,Kim P.,Teresa,Tom,Lex,Kim J.,Ethan
